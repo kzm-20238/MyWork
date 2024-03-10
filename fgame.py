@@ -1,5 +1,6 @@
 import random
 import tkinter
+import os
 
 wts=open("settings.txt","r")
 global fs
